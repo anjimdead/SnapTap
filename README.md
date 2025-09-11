@@ -1,15 +1,14 @@
-# Sobre
 ![USA](https://img.shields.io/badge/-🇺🇸_English-3c3b6e?style=for-the-badge):
 
-SnapTap - Keyboard performance booster for gaming
+**SnapTap - Keyboard Performance Enhancer for Gaming**
 
-C++ tool that optimizes WASD key functionality in competitive games, prioritizing the last key pressed and eliminating opposite key conflicts. Perfect for CS2, Valorant, and other FPS titles
+C++ utility that brings advanced SOCD cleaning to any keyboard, specifically designed for gaming performance. Processes WASD inputs with last-key priority technology, eliminating opposite key conflicts and ensuring precise movement control. Perfect solution for CS2, Valorant, and other competitive FPS titles - especially beneficial for keyboards without native anti-ghosting or SOCD support.
 
 ![Brazil](https://img.shields.io/badge/-🇧🇷_Portuguese-009c3b?style=for-the-badge):
 
-SnapTap - Melhorador de performance para teclados de jogos
+**SnapTap - Otimizador de Performance para Teclados de Jogos**
 
-Ferramenta em C++ que otimiza o funcionamento das teclas WASD em jogos competitivos, priorizando a última tecla pressionada e eliminando conflitos entre teclas opostas. Perfeito para CS2, Valorant e outros FPS.
+Utilitário em C++ que traz limpeza SOCD avançada para qualquer teclado, especialmente desenvolvido para performance em jogos. Processa inputs WASD com tecnologia de prioridade para última tecla pressionada, eliminando conflitos entre teclas opostas e garantindo controle de movimento preciso. Solução perfeita para CS2, Valorant e outros FPS competitivos - especialmente benéfico para teclados sem suporte nativo anti-ghosting ou SOCD.
 
 ![C++](https://img.shields.io/badge/C++-17-blue.svg)
 
