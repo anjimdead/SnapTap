@@ -1,7 +1,11 @@
+# Sobre
+![USA](https://img.shields.io/badge/-🇺🇸_English-3c3b6e?style=for-the-badge):
 
 SnapTap - Keyboard performance booster for gaming
 
 C++ tool that optimizes WASD key functionality in competitive games, prioritizing the last key pressed and eliminating opposite key conflicts. Perfect for CS2, Valorant, and other FPS titles
+
+![Brazil](https://img.shields.io/badge/-🇧🇷_Portuguese-009c3b?style=for-the-badge):
 
 SnapTap - Melhorador de performance para teclados de jogos
 
